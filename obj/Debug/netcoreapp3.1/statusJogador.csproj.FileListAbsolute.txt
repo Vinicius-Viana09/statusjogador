@@ -1,0 +1,13 @@
+C:\Users\DEV\Documents\statusJogador\bin\Debug\netcoreapp3.1\statusJogador.exe
+C:\Users\DEV\Documents\statusJogador\bin\Debug\netcoreapp3.1\statusJogador.deps.json
+C:\Users\DEV\Documents\statusJogador\bin\Debug\netcoreapp3.1\statusJogador.runtimeconfig.json
+C:\Users\DEV\Documents\statusJogador\bin\Debug\netcoreapp3.1\statusJogador.runtimeconfig.dev.json
+C:\Users\DEV\Documents\statusJogador\bin\Debug\netcoreapp3.1\statusJogador.dll
+C:\Users\DEV\Documents\statusJogador\bin\Debug\netcoreapp3.1\statusJogador.pdb
+C:\Users\DEV\Documents\statusJogador\obj\Debug\netcoreapp3.1\statusJogador.csprojAssemblyReference.cache
+C:\Users\DEV\Documents\statusJogador\obj\Debug\netcoreapp3.1\statusJogador.AssemblyInfoInputs.cache
+C:\Users\DEV\Documents\statusJogador\obj\Debug\netcoreapp3.1\statusJogador.AssemblyInfo.cs
+C:\Users\DEV\Documents\statusJogador\obj\Debug\netcoreapp3.1\statusJogador.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Documents\statusJogador\obj\Debug\netcoreapp3.1\statusJogador.dll
+C:\Users\DEV\Documents\statusJogador\obj\Debug\netcoreapp3.1\statusJogador.pdb
+C:\Users\DEV\Documents\statusJogador\obj\Debug\netcoreapp3.1\statusJogador.genruntimeconfig.cache
